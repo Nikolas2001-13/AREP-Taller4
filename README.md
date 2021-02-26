@@ -1,4 +1,4 @@
-# HTTP SERVER
+# TALLER DE ARQUITECTURAS DE SERVIDORES DE APLICACIONES, META PROTOCOLOS DE OBJETOS, PATRÓN IOC, REFLEXIÓN
 
 Para este taller los estudiantes deberán construir un servidor 
 Web (tipo Apache) en Java. El servidor debe ser capaz de entregar 
